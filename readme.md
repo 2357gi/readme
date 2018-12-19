@@ -5,6 +5,7 @@
 |github|[2357gi](https://github.com/2357gi)|
 |Qiita|[2357gi](https://qiita.com/2357gi)|
 |Wantedly|[大木建人](https://www.wantedly.com/users/73079377)|
+|facebook|[大木建人](https://www.facebook.com/2357gi)|
 
 
 ## スキル
