@@ -1,5 +1,5 @@
 # 履歴書
-これがボクのReadme。
+これがホントのReadme。w
 
 ## 基本情報
 |氏名|大木建人 (Kento Ohgi)|
