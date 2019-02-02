@@ -1,21 +1,19 @@
-[github-badge]: https://img.shields.io/github/followers/2357gi.svg?label=2357gi&style=social
+[github-badge]: https://img.shields.io/badge/github--blue.svg?style=social&logo=github
 [github-link]: https://github.com/2357gi/
-[twitter_badge]:https://img.shields.io/badge/Twitter-2357gi-blue.svg
-[twitter-link]:https://twitter.com/2357gi/
-[facebook-badge]:https://img.shields.io/badge/Facebook-2357gi-blue.svg
-[facebook-link]:https://facebook.com/2357gi/
-[qiita-badge]:https://img.shields.io/badge/Qiita-2357gi-green.svg
-[piita-link]:https://qiita.com/2357gi/
-[wantedly-badge]:https://img.shields.io/badge/Wantedly-Kento%20Ohgi-blue.svg
-[wantedly-link]:https://www.wantedly.com/users/73079377
+[facebook-badge]: https://img.shields.io/badge/facebook--blue.svg?style=social&logo=facebook
+[facebook-link]: https://facebook.com/2357gi/
+[qiita-badge]: https://img.shields.io/badge/qiita--green.svg?style=social&logo=qiita
+[qiita-link]: https://qiita.com/2357gi/
+[wantedly-badge]: https://img.shields.io/badge/wantedly--blue.svg?style=social&logo=wikipedia
+[wantedly-link]: https://www.wantedly.com/users/73079377
 
 
 
-[![][github-badge]][travis-link] [![][twitter-badge]][twitter-link][![][facebook-badge]][facebook-link][![][qiita-badge]][qiita-link][![][wantedly-badge]][wantedly-link]
+
+[![][github-badge]][github-link] [![][facebook-badge]][facebook-link] [![][qiita-badge]][qiita-link] [![][wantedly-badge]][wantedly-link]
 
 # 履歴書
-これがホントのReadme。w
-なにかしたり習得してたりしたりすると追記するようにしているので、commitlogを見ると楽しいかも。
+これがホントのReadme。w  
 
 ## 基本情報
 |氏名|大木建人 (Kento Ohgi)|
@@ -32,8 +30,7 @@
 
 |言語|期間|備考|
 |:-----------|:-----------|------------:|
-|C|1年|大学の授業で触った程度|
-|C++|1年|大学の授業で触った程度|
+|C, C++|1年|大学の授業で触った程度|
 |Python|1年|後述|
 |html|一年未満|後述|
 |java script|一年未満|後述|
@@ -132,3 +129,7 @@ Macbookproに買い替え、あまりにものTouch Barの使いにくさと同�
 - 新しいこと、ものを仲間内に積極的に取り組んでいこうとします。
 - 
 
+
+
+## 補足
+なにかしたり習得してたりしたりすると追記するようにしているので、commitlogを見ると楽しいかも。
