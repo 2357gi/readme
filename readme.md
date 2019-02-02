@@ -1,5 +1,21 @@
+[github-badge]: https://img.shields.io/github/followers/2357gi.svg?label=2357gi&style=social
+[github-link]: https://github.com/2357gi/
+[twitter_badge]:https://img.shields.io/badge/Twitter-2357gi-blue.svg
+[twitter-link]:https://twitter.com/2357gi/
+[facebook-badge]:https://img.shields.io/badge/Facebook-2357gi-blue.svg
+[facebook-link]:https://facebook.com/2357gi/
+[qiita-badge]:https://img.shields.io/badge/Qiita-2357gi-green.svg
+[piita-link]:https://qiita.com/2357gi/
+[wantedly-badge]:https://img.shields.io/badge/Wantedly-Kento%20Ohgi-blue.svg
+[wantedly-link]:https://www.wantedly.com/users/73079377
+
+
+
+[![][github-badge]][travis-link] [![][twitter-badge]][twitter-link][![][facebook-badge]][facebook-link][![][qiita-badge]][qiita-link][![][wantedly-badge]][wantedly-link]
+
 # 履歴書
 これがホントのReadme。w
+なにかしたり習得してたりしたりすると追記するようにしているので、commitlogを見ると楽しいかも。
 
 ## 基本情報
 |氏名|大木建人 (Kento Ohgi)|
@@ -35,6 +51,9 @@
 
 #### html & java script & css
 リファレンス等を読みながらかける程度。
+
+### Vue.js
+Todo作ったりインターン中実務で使ったり
 
 #### Ruby
 研究室のユーティリティアプリを作製するために使用。
