@@ -20,6 +20,8 @@
 
 [![][github-badge]][github-link] [![][facebook-badge]][facebook-link] [![][qiita-badge]][qiita-link] [![][wantedly-badge]][wantedly-link]
 
+[自己紹介スライド](https://docs.google.com/presentation/d/17tY8Bkz5Sr5He3evzst6DPywGBPyoLHOyEsvBLKvTDg/mobilepresent?slide=id.p)
+
 ## スキル
 
 ### 言語
