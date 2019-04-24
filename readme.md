@@ -126,7 +126,7 @@ mintOSをメインの開発環境とししばらく開発を行ったのち、�
 |nginx||
 |AWS||
 |GCP||
-|spark, hadoop||
+|spark||
 
 #### 開発スタイル
 インターンにてbacklogを用い、
@@ -134,6 +134,13 @@ mintOSをメインの開発環境とししばらく開発を行ったのち、�
 ともにPRやコードレビューなどを使用した形でのチーム開発であった。  
 gitはとても便利で美しい仕組みなので研究室の仲間に布教したりしている。
 
+#### AWS
+railsで作成したアプリをEC2上にnginxとunicornを用いてデプロイ。
+codedeployを用いてデプロイ自動化を試験中。
+
+#### GCP
+GCEをちょこっと使って遊んだ。
+GKEを使ってちょこっと遊んだ。
 
 #### ansible, docker, k8s
 Infrastructure as Codeが好き
