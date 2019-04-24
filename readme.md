@@ -203,6 +203,8 @@ k8sに載せようと試験したが自分のスキル不足、また明らか�
 強い人とお話がしたい。  
 
 使用技術: Ruby(ruby on rails)/RESTapi/AWS/nginx/python(raspi)
+system図
+![fujihalab-system](./fujihalab-system.png)
 
 ### レコメンドシステムの開発
 現在株式会社TORICOにてレコメンドシステムのプロトタイプを開発中。   
