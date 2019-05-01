@@ -65,7 +65,10 @@
 
 #### Golang
 pythonを触り動的言語の感覚を掴んだ後型付き言語を触り感動。  
-下手なものを書くとコンパイルだったりLintだったりで弾いてくれるのでとても好き。  
+下手なものを書くとコンパイルだったりLintだったりで弾いてくれるので好き。  
+shellscriptとは違って書き方に個人差が現れにくくてとても好き。  
+生成物がバイナリファイルで実行用dockerをメチャクチャ小さくできて幸せ  
+
 
 #### HTML, JavaScript, CSS
 ちょっとしかできないのでもう少し強くなりたい
@@ -86,8 +89,8 @@ pythonを触り動的言語の感覚を掴んだ後型付き言語を触り感�
 |Keras||
 |Google Cloud Platform|インターンにて使用|
 |Ruby on Rails|一ヶ月未満||
-|spark|internにて使用|
-│Vue.js│││
+|spark||internにて使用|
+|Vue.js||
 
 
 
