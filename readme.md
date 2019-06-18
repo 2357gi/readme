@@ -6,6 +6,8 @@
 [qiita-link]: https://qiita.com/2357gi/
 [wantedly-badge]: https://img.shields.io/badge/wantedly--blue.svg?style=social&logo=wikipedia
 [wantedly-link]: https://www.wantedly.com/users/73079377
+[twitter-badge]: https://img.shields.io/badge/twitter--blue.svg?style=social&logo=twitter
+[twitter-link]: https://twitter.com/2357gi
 
 
 
@@ -30,7 +32,7 @@
 大木建人 Kento Ohgi  
 2357.gi@gmail.com  
 
-[![][github-badge]][github-link] [![][facebook-badge]][facebook-link] [![][qiita-badge]][qiita-link] [![][wantedly-badge]][wantedly-link]
+[![][github-badge]][github-link] [![][facebook-badge]][facebook-link] [![][qiita-badge]][qiita-link] [![][wantedly-badge]][wantedly-link] [![][twitter-badge]][twitter-link]
 
 [自己紹介スライド](https://docs.google.com/presentation/d/17tY8Bkz5Sr5He3evzst6DPywGBPyoLHOyEsvBLKvTDg/mobilepresent?slide=id.p)
 
